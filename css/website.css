@@ -1,0 +1,197 @@
+.hero-sec{
+  height: 1765px;
+  border:1px solid black;
+}
+.sub-sec{
+   
+  height: 361px;
+  background-color: #fcea60;
+}
+.img1{
+  width: 100%;
+  height: 363px;
+}
+.we_make_awesome{
+  font-size: 16px;
+  color:white;
+  position: absolute;
+  padding-left:130px;
+  padding-top:100px
+}
+.Website{
+  width: 263px;
+  height: 60px;
+  font-family: .AppleSystemUIFont;
+  font-size: 55px;
+  line-height: 1.0;
+  color: #ffffff;
+}
+.Contact-Us {
+font-family: HelveticaNeue-Bold;
+  font-size: 12px;
+  color: #fafafa;
+}
+.Projects {
+  width: 118px;
+  height: 30px;
+  font-family: HelveticaNeue-Bold;
+  font-size: 22px;
+  color: #1f1f1f;
+
+}
+.Check-out-our-awesom {
+  padding-left:13px;
+  width: 445px;
+  height: 95px;
+  font-family: .AppleSystemUIFont;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #474747;
+}
+.Like-what-you-see-am {
+  font-family: .AppleSystemUIFont;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #000000;
+  position: absolute;
+  padding-left:420px;
+  padding-top:10px
+}
+.more_projects{
+  background-color: #fc6435;
+  font-family: HelveticaNeue-Bold;
+  font-size: 14px;
+  color: #fafafa;
+  border-radius: 45px;
+ }
+.team {
+  width: 900px;
+  height: 530px;
+  background-color: white;
+  padding-left:20px;
+  padding-top:100px;
+  border:0.25px black;
+  font-size: 22px;
+  font-family: HelveticaNeue-Bold;
+}
+.Prepare-yourself-her {
+  font-family: .AppleSystemUIFont;
+  font-size: 15px;
+  line-height: 1.6;
+}
+.img5{
+     margin-top: -343px;
+}
+.Frank-Kennedy{
+  font-family: HelveticaNeue-Bold;
+  font-size: 22px;
+  color: #1f1f1f;
+}
+.Project-Manager {
+  font-family: .AppleSystemUIFont;
+  font-size: 14px;
+  color: #a3a3a3;
+}
+.Phillip-Ross {
+  font-family: HelveticaNeue-Bold;
+  font-size: 24px;
+  color: #1f1f1f;
+}
+.Designer {
+  font-family: .AppleSystemUIFont;
+  font-size: 16px;
+  color: #a3a3a3;
+}
+.Jesse-Wheeler {
+  font-family: HelveticaNeue-Bold;
+  font-size: 24px;
+  color: #1f1f1f;
+}
+.Developer {
+  font-family: .AppleSystemUIFont;
+  font-size: 16px;
+  color: #a3a3a3;
+}
+.Contact-Us {
+  margin-top: 55px;
+  margin-left: 25px;
+  font-family: HelveticaNeue-Bold;
+  font-size: 15px;
+  color: #000000;
+}
+.Like-what-you-see-W {
+  margin-top: 25px;
+  margin-left: 25px;
+  font-family: HelveticaNeue;
+  font-size: 16px;
+  line-height: 1.4;
+  color: #000000;
+}
+.yourname {
+ margin-top: 25px;
+ margin-left: 25px;
+ width: 262px;
+ font-family: HelveticaNeue;
+  font-size: 15px;
+  color: #000000;
+  background-color: #d8d8d8;
+
+}
+.your-email {
+  margin-left: 25px;
+ width: 262px;
+  font-family: HelveticaNeue;
+  font-size: 15px;
+  color: black;
+  background-color: #d8d8d8;
+}
+.Type-of-Enquiry {
+  margin-left: 25px;
+  font-family: HelveticaNeue;
+  font-size: 15px;
+  color: #000000;
+  background-color: #d8d8d8;
+}
+.box {
+  padding-bottom: 76px;
+  margin-left: 25px;
+  width: 300px;
+  background-color: #d8d8d8;
+  font-family: HelveticaNeue;
+  color: #fafafa;
+ }
+.send{
+  margin-left: 25px;
+  width: 95px;
+  height: 35px;
+  font-family: HelveticaNeue-Medium;
+  font-size: 11px;
+  background-color: #f8e71c;
+ 
+ }
+.footer{
+  width: 1140px;
+  height: 100px;
+  background-color: #262626;
+}
+.Just-want-a-quick-ch {
+  font-family: HelveticaNeue-Bold;
+  font-size: 18px;
+  color: #000000;
+
+}
+ .Call-us-if-you-just {
+  width: 250px;
+  font-family: HelveticaNeue;
+  font-size: 12px;
+  line-height: 1.4;
+  color: #000000;
+}
+.TEL-07859864553 {
+  width: 144px;
+  height: 23px;
+  font-family: HelveticaNeue-Medium;
+  font-size: 12px;
+  line-height: 1.4;
+  color: #000000;
+}
